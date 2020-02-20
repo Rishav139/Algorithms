@@ -1,2 +1,2 @@
-# python
+# Some algorithm
 basics
